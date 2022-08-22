@@ -1,6 +1,3 @@
-# prework-test-repo
-Prework Study Guide
-
 # Prework Study Guide Webpage
 
 ## Description 
